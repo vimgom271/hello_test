@@ -1,2 +1,2 @@
-# hello_test
+# Git
 Checking git
